@@ -1,0 +1,237 @@
+header {
+    max-width: 1520px;
+    width: 100%;
+    height: 80px;
+    background: rgba(0, 0, 0, 0.20);
+    padding: 29px;
+    position: fixed;
+    z-index: 100;
+   
+}
+body {
+    background-color: rgb(231, 231, 187);
+}
+
+.hederi {
+    max-width: 504px;
+}
+
+
+h1 {
+    color: white;
+    font-family: League Spartan;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+a {
+    color: white;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 20px;
+    
+}
+.xaz {
+    margin-left: 20px;
+}
+.headeri {
+    max-width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+
+}
+.fa-facebook {
+
+    color: white;
+    font-size: 20px;
+
+}
+.fa-twitter {
+ 
+    color: white;
+    font-size: 20px;
+
+
+}
+.fa-youtube {
+    
+    color: white;
+    font-size: 20px;
+
+
+}
+.fa-pinterest {
+    color: white;
+    font-size: 20px;
+
+}
+.xazi {
+    margin-left: 20px;
+}
+.fa-magnifying-glass {
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+.container {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+h4 {
+    color: #495057;
+    font-family: Lora;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 150px;
+    margin-bottom: 85px;
+}
+.card {
+    width: 310px;
+    height: 565px;
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+.cardebi {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+    max-width: 1520px;
+    width: 100%;
+    
+}
+.bavshvoba {
+    border-radius: 5px 5px 0px 0px;
+}
+.ciga {
+    border-radius: 5px 5px 0px 0px;
+}
+.alb {
+    border-radius: 5px 5px 0px 0px;
+}
+.bobi {
+    border-radius: 5px 5px 0px 0px;
+}
+h5 {
+    color: #495057;
+    font-family: Lora;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+h6 {
+    color: #6C757D;
+    font-family: Lora;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.fotobob {
+    position: relative;
+}
+.textia {
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    z-index: 200;
+    
+}
+.textu {
+    color: #ffffff;
+    font-family: Lora;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 1200;
+    line-height: normal;
+    margin: 0;
+}
+p {
+    color: #E5E5E5;
+    font-family: Lora;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    
+}
+.cardi {
+    width: 640px;
+    height: 350px;
+    background-color: white;
+    border-radius: 5px;
+    position: relative;
+    background-image: url(../images/satvale.png);
+    background-size: contain;
+    border-image-source: linear-gradient(rgba(128, 128, 128, 0.504),rgba(128, 128, 128, 0.5));
+    border-image-slice: fill 1;
+    
+    
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+    
+    
+}
+.satvale {
+    border-radius: 5px;
+
+}
+.text {
+    position: absolute;
+    top: 70%;
+    left: 7%;
+}
+.sat {
+    color: #ffffff;
+    font-family: Lora;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+    margin: 0;
+}
+.sata {
+    color: #ffffff;
+    font-family: Lora;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; 
+}
+.la {
+    background-image: url(../images/bob.jpg);
+}
+html {
+    max-width: 1520px;
+    width: 100%;
+}
+@media (max-width:1280px) {
+    .container {
+        margin: 0 auto;
+    }
+    .cardebi {
+        margin: 0 auto;
+    }
+}
+.container {
+    max-width: 1300px;
+    width: 100%;
+}
